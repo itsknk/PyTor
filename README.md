@@ -782,5 +782,11 @@ The `Main` class is the entry point of the program.
 The main method of the program. Sets the logging level to DEBUG, creates a `Run` object, and starts the downloading process.
 
 
+### Credits
+- [Mary Rose Cook](https://twitter.com/maryrosecook), for inspiring me to take on something like this.
+- [Kristen Widman](http://www.kristenwidman.com/blog/), for the wonderful [guide](http://www.kristenwidman.com/blog/33/how-to-write-a-bittorrent-client-part-1/), which was an enourmous help.
+- The [Offical spec](https://notes.kishorekaranam.com/Bit%20Torrent%20Spec) of Bit Torrent.
+
+
 ### License
 [MIT](https://github.com/itsknk/PyTor/blob/master/LICENSE)
